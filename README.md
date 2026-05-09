@@ -21,6 +21,12 @@
   <img src="https://img.shields.io/badge/Open%20to-AI%20%26%20ML%20Opportunities-0f766e?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to opportunities badge">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/faresmohamed260?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers badge">
+  <img src="https://img.shields.io/github/stars/faresmohamed260?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars badge">
+  <img src="https://img.shields.io/badge/Public%20Repos-4-111827?style=for-the-badge&logo=github" alt="Public repos badge">
+</p>
+
 ---
 
 ## Overview
