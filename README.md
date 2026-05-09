@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/faresmohamed260?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers badge">
   <img src="https://img.shields.io/github/stars/faresmohamed260?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars badge">
-  <img src="https://img.shields.io/badge/Public%20Repos-4-111827?style=for-the-badge&logo=github" alt="Public repos badge">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffaresmohamed260&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=111827" alt="Public repos badge">
 </p>
 
 ---
