@@ -48,7 +48,3 @@ Senior AI student at Alexandria University, where I rank at the top of my class.
 - LinkedIn: [fares-mohamed](https://www.linkedin.com/in/fares-mohamed-b83454194/)
 - Hugging Face: [faresmohamed260](https://huggingface.co/faresmohamed260)
 - Kaggle: [faresmohamed260](https://www.kaggle.com/faresmohamed260)
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faresmohamed260&show_icons=true&hide_border=true&title_color=1f2937&text_color=4b5563&icon_color=2563eb&bg_color=ffffff)
