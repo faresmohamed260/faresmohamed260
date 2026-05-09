@@ -1,4 +1,4 @@
-<h1 align="center">Fares Mohamed</h1>
+<h1 align="center">Hi, I'm Fares Mohamed</h1>
 
 <p align="center">
   AI Engineer focused on intelligent pipelines, autonomous systems, and applied generative AI.
@@ -13,6 +13,12 @@
   <a href="https://www.linkedin.com/in/fares-mohamed-b83454194/">LinkedIn</a> |
   <a href="https://huggingface.co/faresmohamed260">Hugging Face</a> |
   <a href="https://www.kaggle.com/faresmohamed260">Kaggle</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-0f172a?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI Engineer badge">
+  <img src="https://img.shields.io/badge/Alexandria%2C%20Egypt-1d4ed8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location badge">
+  <img src="https://img.shields.io/badge/Open%20to-AI%20%26%20ML%20Opportunities-0f766e?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to opportunities badge">
 </p>
 
 ---
@@ -47,6 +53,27 @@ I build AI systems with an engineering-first mindset: end-to-end pipelines, auto
     </td>
   </tr>
 </table>
+
+## When I Build, I Reach For
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python badge">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker badge">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit badge">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2 badge">
+  <img src="https://img.shields.io/badge/ESP32-111827?style=flat-square&logo=esphome&logoColor=white" alt="ESP32 badge">
+  <img src="https://img.shields.io/badge/LLM%20Systems-7c3aed?style=flat-square&logo=openai&logoColor=white" alt="LLM systems badge">
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0f766e?style=flat-square&logo=databricks&logoColor=white" alt="RAG pipelines badge">
+  <img src="https://img.shields.io/badge/Autonomous%20Agents-b91c1c?style=flat-square&logo=gnometerminal&logoColor=white" alt="Autonomous agents badge">
+</p>
+
+## Currently Building Around
+
+- Intelligent pipelines that connect retrieval, reasoning, and action
+- Agentic systems with clear architecture and practical interfaces
+- Robotics-aware applications that bridge software and physical systems
+- Applied AI projects that can be demonstrated, evaluated, and extended
 
 ## Featured Systems
 
