@@ -81,6 +81,16 @@ I build AI systems with an engineering-first mindset: end-to-end pipelines, auto
 - Robotics-aware applications that bridge software and physical systems
 - Applied AI projects that can be demonstrated, evaluated, and extended
 
+## GitHub Activity
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=faresmohamed260&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats">
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faresmohamed260&theme=github_dark" alt="GitHub profile summary">
+</p>
+
 ## Featured Systems
 
 <table>
