@@ -83,12 +83,8 @@ I build AI systems with an engineering-first mindset: end-to-end pipelines, auto
 
 ## GitHub Activity
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=faresmohamed260&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats">
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faresmohamed260&theme=github_dark" alt="GitHub profile summary">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faresmohamed260&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=58a6ff&currStreakNum=ffffff&dates=8b949e" alt="GitHub streak stats">
 </p>
 
 ## Featured Systems
