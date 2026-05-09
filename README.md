@@ -1,50 +1,94 @@
-# Fares Mohamed
+<h1 align="center">Fares Mohamed</h1>
 
-AI Engineer focused on building intelligent pipelines, autonomous systems, and applied generative AI. I work across the full lifecycle of AI products, from model experimentation and orchestration to deployment-oriented system design.
+<p align="center">
+  AI Engineer focused on intelligent pipelines, autonomous systems, and applied generative AI.
+</p>
 
-Senior AI student at Alexandria University, where I rank at the top of my class. I also lead the AI Committee at ElCoder and have worked as an AI & Robotics Instructor and Content Creator at Engineering For Kids.
+<p align="center">
+  Senior AI student at Alexandria University | Head of AI Committee at ElCoder | AI & Robotics Instructor
+</p>
 
-## Current Focus
+<p align="center">
+  <a href="mailto:faresmohamed260@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/fares-mohamed-b83454194/">LinkedIn</a> |
+  <a href="https://huggingface.co/faresmohamed260">Hugging Face</a> |
+  <a href="https://www.kaggle.com/faresmohamed260">Kaggle</a>
+</p>
 
-- Autonomous agents and intelligent workflows
-- Generative AI systems and LLM orchestration
-- End-to-end AI pipelines and production-minded architecture
-- Robotics integration and embodied intelligence
+---
 
-## Featured Projects
+## Overview
 
-### SAGA
-[SAGA](https://github.com/faresmohamed260/saga) is a canon-aware narrative intelligence system for story analysis, retrieval, timeline reasoning, and generation. It is built around LLM workflows, retrieval pipelines, and structured narrative logic.
+I build AI systems with an engineering-first mindset: end-to-end pipelines, autonomous workflows, LLM orchestration, and robotics-aware interfaces. My work is centered on turning ambitious ideas into usable systems with clear architecture, strong tooling, and practical deployment thinking.
 
-### DUM-E
-[DUM-E](https://github.com/faresmohamed260/DUM-E) is an applied intelligent systems project centered on agentic behavior and practical AI engineering.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Current Focus</strong>
+      <br><br>
+      - Autonomous agents and intelligent workflows
+      <br>
+      - Generative AI systems and LLM orchestration
+      <br>
+      - End-to-end AI pipelines and production-minded architecture
+      <br>
+      - Robotics integration and embodied intelligence
+    </td>
+    <td valign="top" width="50%">
+      <strong>Leadership & Experience</strong>
+      <br><br>
+      - Senior AI student at Alexandria University
+      <br>
+      - Ranked at the top of my class
+      <br>
+      - Head of AI Committee at ElCoder
+      <br>
+      - AI & Robotics Instructor and Content Creator at Engineering For Kids
+    </td>
+  </tr>
+</table>
 
-### VisionDeck CV Suite
-[VisionDeck CV Suite](https://github.com/faresmohamed260/visiondeck-cv-suite) is a computer vision project suite that reflects applied AI development, experimentation, and deployment-minded thinking.
+## Featured Systems
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/faresmohamed260/saga">
+        <img src="https://opengraph.githubassets.com/1/faresmohamed260/saga" alt="SAGA preview">
+      </a>
+      <br><br>
+      <strong>SAGA</strong>
+      <br>
+      Canon-aware narrative intelligence system for retrieval, timeline reasoning, analysis, and story generation.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/faresmohamed260/DUM-E">
+        <img src="https://opengraph.githubassets.com/1/faresmohamed260/DUM-E" alt="DUM-E preview">
+      </a>
+      <br><br>
+      <strong>DUM-E</strong>
+      <br>
+      Applied intelligent systems project focused on agentic behavior, robotics integration, and practical AI engineering.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/faresmohamed260/visiondeck-cv-suite">
+        <img src="https://opengraph.githubassets.com/1/faresmohamed260/visiondeck-cv-suite" alt="VisionDeck CV Suite preview">
+      </a>
+      <br><br>
+      <strong>VisionDeck CV Suite</strong>
+      <br>
+      Computer vision suite spanning face detection, hand gesture recognition, and real-time object detection workflows.
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
-**Core**
-
+**Core**  
 `Python` `PyTorch` `Docker`
 
-**Applied AI & Systems**
-
+**Applied AI & Systems**  
 `LLM Systems` `RAG Pipelines` `AI Architecture` `Autonomous Agents`
 
-**Robotics & Interfaces**
-
+**Robotics & Interfaces**  
 `ROS2` `ESP32` `Streamlit`
-
-## Leadership & Experience
-
-- Head of AI Committee at ElCoder, a nonprofit student club
-- AI & Robotics Instructor and Content Creator at Engineering For Kids
-- Senior AI student at Alexandria University
-
-## Contact
-
-- Email: [faresmohamed260@gmail.com](mailto:faresmohamed260@gmail.com)
-- LinkedIn: [fares-mohamed](https://www.linkedin.com/in/fares-mohamed-b83454194/)
-- Hugging Face: [faresmohamed260](https://huggingface.co/faresmohamed260)
-- Kaggle: [faresmohamed260](https://www.kaggle.com/faresmohamed260)
