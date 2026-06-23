@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Fares Mohamed</h1>
 
 <p align="center">
-  AI Engineer focused on intelligent pipelines, autonomous systems, and applied generative AI.
+  AI Engineer focused on agentic AI systems, intelligent pipelines, and applied generative AI.
 </p>
 
 <p align="center">
-  Senior AI student at Alexandria University | Head of AI Committee at ElCoder | AI & Robotics Instructor
+  2026 Computer Science graduate from Alexandria University | Head of AI Committee at ElCoder | AI & Robotics Instructor
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-0f172a?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI Engineer badge">
   <img src="https://img.shields.io/badge/Alexandria%2C%20Egypt-1d4ed8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location badge">
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%26%20ML%20Opportunities-0f766e?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to opportunities badge">
+  <img src="https://img.shields.io/badge/Open%20to-Agentic%20AI%20%26%20Applied%20AI%20Roles-0f766e?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to opportunities badge">
 </p>
 
 <p align="center">
@@ -31,25 +31,25 @@
 
 ## Overview
 
-I build AI systems with an engineering-first mindset: end-to-end pipelines, autonomous workflows, LLM orchestration, and robotics-aware interfaces. My work is centered on turning ambitious ideas into usable systems with clear architecture, strong tooling, and practical deployment thinking.
+I build AI systems with an engineering-first mindset: agentic workflows, retrieval-grounded pipelines, LLM orchestration, and robotics-aware interfaces. My work is centered on turning ambitious ideas into usable systems with clear architecture, strong tooling, and practical deployment thinking.
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <strong>Current Focus</strong>
       <br><br>
-      - Autonomous agents and intelligent workflows
+      - Agentic AI systems and multi-stage workflows
       <br>
-      - Generative AI systems and LLM orchestration
+      - Generative AI systems, RAG, and LLM orchestration
       <br>
-      - End-to-end AI pipelines and production-minded architecture
+      - FastAPI + React demonstrators and operator tooling
       <br>
       - Robotics integration and embodied intelligence
     </td>
     <td valign="top" width="50%">
       <strong>Leadership & Experience</strong>
       <br><br>
-      - Senior AI student at Alexandria University
+      - 2026 Computer Science graduate from Alexandria University
       <br>
       - Ranked at the top of my class
       <br>
@@ -76,8 +76,8 @@ I build AI systems with an engineering-first mindset: end-to-end pipelines, auto
 
 ## Currently Building Around
 
-- Intelligent pipelines that connect retrieval, reasoning, and action
-- Agentic systems with clear architecture and practical interfaces
+- Intelligent pipelines that connect retrieval, reasoning, action, and review
+- Agentic systems with clear architecture, tool integration, and practical interfaces
 - Robotics-aware applications that bridge software and physical systems
 - Applied AI projects that can be demonstrated, evaluated, and extended
 
@@ -98,7 +98,7 @@ I build AI systems with an engineering-first mindset: end-to-end pipelines, auto
       <br><br>
       <strong>SAGA</strong>
       <br>
-      Canon-aware narrative intelligence system for retrieval, timeline reasoning, analysis, and story generation.
+      Database-native agentic AI workspace with staged analysis agents, retrieval grounding, and a React + FastAPI operator surface.
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/faresmohamed260/DUM-E">
@@ -127,7 +127,7 @@ I build AI systems with an engineering-first mindset: end-to-end pipelines, auto
 `Python` `PyTorch` `Docker`
 
 **Applied AI & Systems**  
-`LLM Systems` `RAG Pipelines` `AI Architecture` `Autonomous Agents`
+`LLM Systems` `RAG Pipelines` `AI Architecture` `Autonomous Agents` `FastAPI` `React`
 
 **Robotics & Interfaces**  
 `ROS2` `ESP32` `Streamlit`
