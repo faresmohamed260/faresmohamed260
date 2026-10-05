@@ -1,133 +1,72 @@
-<h1 align="center">Hi, I'm Fares Mohamed</h1>
+<h1 align="center">Fares Mohamed — AI Engineer</h1>
 
 <p align="center">
-  AI Engineer focused on agentic AI systems, intelligent pipelines, and applied generative AI.
+  I build complete AI products: measured model and NLP components, durable workflows, APIs, databases, interfaces, deployment, and operational safeguards.
 </p>
 
 <p align="center">
-  2026 Computer Science graduate from Alexandria University | Head of AI Committee at ElCoder | AI & Robotics Instructor
-</p>
-
-<p align="center">
-  <a href="mailto:faresmohamed260@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/fares-mohamed-b83454194/">LinkedIn</a> |
-  <a href="https://huggingface.co/faresmohamed260">Hugging Face</a> |
+  <a href="mailto:faresmohamed260@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/fares-mohamed-b83454194/">LinkedIn</a> ·
+  <a href="https://huggingface.co/faresmohamed260">Hugging Face</a> ·
   <a href="https://www.kaggle.com/faresmohamed260">Kaggle</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-0f172a?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI Engineer badge">
-  <img src="https://img.shields.io/badge/Alexandria%2C%20Egypt-1d4ed8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location badge">
-  <img src="https://img.shields.io/badge/Open%20to-Agentic%20AI%20%26%20Applied%20AI%20Roles-0f766e?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to opportunities badge">
+  Alexandria, Egypt · B.Sc. Computer Science, Alexandria University — 2026 · Open to AI/ML Engineering roles
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/faresmohamed260?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers badge">
-  <img src="https://img.shields.io/github/stars/faresmohamed260?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars badge">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffaresmohamed260&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=111827" alt="Public repos badge">
-</p>
+## Selected Engineering Work
 
----
+### [RenderLab](https://github.com/faresmohamed260/renderlab) — Production AI media systems
 
-## Overview
+**Closed beta · [Live product](https://renderlab.faresuniform.uk) · [Architecture](https://github.com/faresmohamed260/renderlab/tree/main/docs/architecture) · [Security](https://github.com/faresmohamed260/renderlab/blob/main/SECURITY.md)**
 
-I build AI systems with an engineering-first mindset: agentic workflows, retrieval-grounded pipelines, LLM orchestration, and robotics-aware interfaces. My work is centered on turning ambitious ideas into usable systems with clear architecture, strong tooling, and practical deployment thinking.
+A Next.js AI-media workspace that turns ComfyUI pipelines into durable image and video workflows. Server-owned jobs survive the initiating browser, with reconciliation, bounded retries and cancellation, idempotent finalization, owner-scoped access, and durable media storage.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Current Focus</strong>
-      <br><br>
-      - Agentic AI systems and multi-stage workflows
-      <br>
-      - Generative AI systems, RAG, and LLM orchestration
-      <br>
-      - FastAPI + React demonstrators and operator tooling
-      <br>
-      - Robotics integration and embodied intelligence
-    </td>
-    <td valign="top" width="50%">
-      <strong>Leadership & Experience</strong>
-      <br><br>
-      - 2026 Computer Science graduate from Alexandria University
-      <br>
-      - Ranked at the top of my class
-      <br>
-      - Head of AI Committee at ElCoder
-      <br>
-      - AI & Robotics Instructor and Content Creator at Engineering For Kids
-    </td>
-  </tr>
-</table>
+`Next.js` `TypeScript` `Supabase Auth` `PostgreSQL` `RLS` `Cloudflare R2` `Modal` `ComfyUI` `Playwright` `Vercel`
 
-## When I Build, I Reach For
+### [S.A.G.A.](https://github.com/faresmohamed260/saga) — Evidence-linked narrative intelligence
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python badge">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch badge">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker badge">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit badge">
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2 badge">
-  <img src="https://img.shields.io/badge/ESP32-111827?style=flat-square&logo=esphome&logoColor=white" alt="ESP32 badge">
-  <img src="https://img.shields.io/badge/LLM%20Systems-7c3aed?style=flat-square&logo=openai&logoColor=white" alt="LLM systems badge">
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-0f766e?style=flat-square&logo=databricks&logoColor=white" alt="RAG pipelines badge">
-  <img src="https://img.shields.io/badge/Autonomous%20Agents-b91c1c?style=flat-square&logo=gnometerminal&logoColor=white" alt="Autonomous agents badge">
-</p>
+**Active v2 development · [Current status](https://github.com/faresmohamed260/saga/blob/main/PROJECT.md) · [Evaluation](https://github.com/faresmohamed260/saga/blob/main/docs/validation/PHASE_V2_3_COMPONENT_SCORECARD.md)**
 
-## Currently Building Around
+A local-first analysis system for extracting characters, dialogue, events, relationships, and timelines from books while preserving source evidence and provenance. Its deterministic quote detector leads the current public comparison at **0.8563 F1**, versus **0.7791 F1** for the measured BookNLP challenger.
 
-- Intelligent pipelines that connect retrieval, reasoning, action, and review
-- Agentic systems with clear architecture, tool integration, and practical interfaces
-- Robotics-aware applications that bridge software and physical systems
-- Applied AI projects that can be demonstrated, evaluated, and extended
+`Python` `FastAPI` `Next.js` `Supabase` `PostgreSQL` `SQLAlchemy` `Alembic` `Backblaze B2` `pytest`
 
-## GitHub Activity
+### [Fares Uniform](https://github.com/faresmohamed260/fares-uniform) — Bilingual enterprise operations
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=faresmohamed260&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=58a6ff&currStreakNum=ffffff&dates=8b949e" alt="GitHub streak stats">
-</p>
+**Experimental system · Staging verified · [Staging](https://fares-uniform.vercel.app) · [Business requirements](https://github.com/faresmohamed260/fares-uniform/blob/main/docs/requirements/DISCOVERY.md)**
 
-## Featured Systems
+An Arabic/English platform for a real uniform business, combining Odoo Community with a separate Next.js customer experience. It models retail, preorders, deposits, production demand, inventory, business-client workflows, delegated access, recovery, and observability—validated by **149 Odoo tests** and **8/8 browser checks**.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/faresmohamed260/saga">
-        <img src="https://opengraph.githubassets.com/1/faresmohamed260/saga" alt="SAGA preview">
-      </a>
-      <br><br>
-      <strong>SAGA</strong>
-      <br>
-      Database-native agentic AI workspace with staged analysis agents, retrieval grounding, and a React + FastAPI operator surface.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/faresmohamed260/DUM-E">
-        <img src="https://opengraph.githubassets.com/1/faresmohamed260/DUM-E" alt="DUM-E preview">
-      </a>
-      <br><br>
-      <strong>DUM-E</strong>
-      <br>
-      Applied intelligent systems project focused on agentic behavior, robotics integration, and practical AI engineering.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/faresmohamed260/visiondeck-cv-suite">
-        <img src="https://opengraph.githubassets.com/1/faresmohamed260/visiondeck-cv-suite" alt="VisionDeck CV Suite preview">
-      </a>
-      <br><br>
-      <strong>VisionDeck CV Suite</strong>
-      <br>
-      Computer vision suite spanning face detection, hand gesture recognition, and real-time object detection workflows.
-    </td>
-  </tr>
-</table>
+`Odoo` `Python` `Next.js` `TypeScript` `PostgreSQL` `Supabase` `Playwright` `GitHub Actions` `Vercel`
 
-## Tech Stack
+### [DUM-E](https://github.com/faresmohamed260/DUM-E) — Embedded robotics and motion control
 
-**Core**  
-`Python` `PyTorch` `Docker`
+An ESP32 robot-arm system spanning firmware, persistent calibration, Wi-Fi/API control, wireless controller mapping, sequence recording, forward/inverse kinematics, path planning, guarded pick-and-place execution, and Windows packaging.
 
-**Applied AI & Systems**  
-`LLM Systems` `RAG Pipelines` `AI Architecture` `Autonomous Agents` `FastAPI` `React`
+`ESP32` `C++` `Python` `FK/IK` `Motion Planning` `Streamlit` `ROS2 Interfaces`
 
-**Robotics & Interfaces**  
-`ROS2` `ESP32` `Streamlit`
+## Engineering Stack
+
+| Area | Technologies and practices |
+| --- | --- |
+| **Languages** | Python, TypeScript, SQL, C/C++ |
+| **AI / ML** | PyTorch, NLP, LLM systems, RAG, evaluation, ComfyUI |
+| **Backend & data** | FastAPI, PostgreSQL, Supabase, SQLAlchemy, Alembic, Odoo |
+| **Product** | React, Next.js, Streamlit, Arabic/English and RTL interfaces |
+| **Infrastructure** | Docker, GitHub Actions, Vercel, Cloudflare R2, Backblaze B2, Modal |
+| **Quality** | pytest, Playwright, CI/CD, reproducible evaluation, deployment and recovery checks |
+| **Robotics** | ESP32, embedded firmware, FK/IK, motion planning, ROS2 interfaces |
+
+## How I Engineer
+
+- **Measure before adopting.** Evaluate AI components against reproducible baselines and keep experimental results distinct from production defaults.
+- **Design for failure.** Use durable state, retries, idempotency, explicit ownership, authorization boundaries, and recovery procedures.
+- **Ship the whole system.** Connect models to reliable APIs, databases, product interfaces, testing, deployment, and operations.
+
+## Background
+
+- **B.Sc. Computer Science**, Alexandria University — 2026; ranked at the top of my class.
+- **Head of AI Committee**, ElCoder.
+- **AI & Robotics Instructor and Content Creator**, Engineering For Kids.
