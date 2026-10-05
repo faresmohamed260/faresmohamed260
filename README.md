@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Fares Mohamed — AI Engineer. Building the systems around the model." width="100%" />
+  <img src="./assets/profile-header-v2.svg" alt="Fares Mohamed — AI Engineer. Building the systems around the model." width="100%" />
 </p>
 
 <p align="center">
