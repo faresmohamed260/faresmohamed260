@@ -16,6 +16,7 @@
     <path id="p3" d="M715 115C746 202 783 261 866 306"/>
     <path id="p4" d="M866 306C953 337 1018 297 1088 241"/>
     <path id="p5" d="M892 165C867 210 853 252 866 306"/>
+    <path id="p6" d="M866 306C918 338 964 353 1024 355"/>
   </defs>
   <rect width="1200" height="460" rx="30" fill="url(#bg)"/>
   <rect width="1200" height="460" rx="30" fill="url(#grid)"/>
@@ -31,7 +32,7 @@
   </g>
 
   <g fill="none" stroke="#35577e" stroke-width="2" opacity=".72">
-    <use href="#p1"/><use href="#p2"/><use href="#p3"/><use href="#p4"/><use href="#p5"/>
+    <use href="#p1"/><use href="#p2"/><use href="#p3"/><use href="#p4"/><use href="#p5"/><use href="#p6"/>
   </g>
   <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" text-anchor="middle">
     <g transform="translate(715 115)"><circle r="34" fill="#081b29" stroke="#35e3d2" stroke-width="2"/><circle r="46" fill="none" stroke="#35e3d2" opacity=".16"><animate attributeName="r" values="40;49;40" dur="3.2s" repeatCount="indefinite"/></circle><text y="5" fill="#bffcf6" font-size="14">EVAL</text></g>
@@ -39,8 +40,7 @@
     <g transform="translate(1088 118)"><circle r="33" fill="#11132f" stroke="#a06bff" stroke-width="2"/><text y="5" fill="#e9dfff" font-size="14">APIs</text></g>
     <g transform="translate(866 306)"><circle r="39" fill="#071b2d" stroke="#49b9ff" stroke-width="2"/><text y="5" fill="#cdecff" font-size="14">DATA</text></g>
     <g transform="translate(1088 241)"><circle r="42" fill="#13112e" stroke="#bc76ff" stroke-width="2"/><text y="5" fill="#f0e2ff" font-size="14">PRODUCT</text></g>
-    <g transform="translate(1024 355)"><rect x="-52" y="-24" width="104" height="48" rx="8" fill="#1b1514" stroke="#ff9b4a" stroke-width="2"/><text y="5" fill="#ffe2c6" font-size="13">PHYSICAL</text></g>
-    <path d="M1002 324L1024 331" stroke="#ff9b4a" stroke-width="2"/>
+    <g transform="translate(1024 355)"><circle r="39" fill="#1b1514" stroke="#ff9b4a" stroke-width="2"/><circle r="50" fill="none" stroke="#ff9b4a" opacity=".13"><animate attributeName="r" values="45;53;45" dur="3.6s" repeatCount="indefinite"/></circle><text y="4" fill="#ffe2c6" font-size="11">PHYSICAL</text></g>
   </g>
   <g fill="#63eaff" filter="url(#glow)">
     <circle r="5"><animateMotion dur="2.6s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
@@ -48,6 +48,6 @@
     <circle r="5"><animateMotion dur="3.1s" begin="-1.4s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
     <circle r="5"><animateMotion dur="2.8s" begin="-.3s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion></circle>
     <circle r="4"><animateMotion dur="2.4s" begin="-1s" repeatCount="indefinite"><mpath href="#p5"/></animateMotion></circle>
+    <circle r="4" fill="#ffb06d"><animateMotion dur="2.7s" begin="-.5s" repeatCount="indefinite"><mpath href="#p6"/></animateMotion></circle>
   </g>
-  <g transform="translate(1115 52)"><rect width="46" height="46" rx="11" fill="#0b1730" stroke="url(#signal)"/><text x="23" y="30" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="750" font-size="20">FM</text></g>
 </svg>
