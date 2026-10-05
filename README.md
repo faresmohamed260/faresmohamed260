@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/system-hero.svg" alt="Fares Mohamed — AI Engineer building complete systems from evaluation to operation" width="100%" />
+  <img src="./assets/system-hero-v2.svg" alt="Fares Mohamed — AI Engineer building complete systems from evaluation to operation" width="100%" />
 </p>
 
 <p align="center">
