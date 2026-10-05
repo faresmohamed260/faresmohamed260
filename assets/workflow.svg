@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering workflow</title><desc id="desc">Understand, design, build, prove, and operate.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07111d"/><stop offset="1" stop-color="#0b1527"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#35e3d2"/><stop offset=".5" stop-color="#4da3ff"/><stop offset="1" stop-color="#a06bff"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="228" rx="24" fill="url(#bg)" stroke="#223d59" stroke-width="2"/>
+  <path d="M130 86H1068" stroke="#294a69" stroke-width="3"/><path d="M130 86H1068" stroke="url(#a)" stroke-width="3" stroke-dasharray="160 778"><animate attributeName="stroke-dashoffset" values="160;-938" dur="7s" repeatCount="indefinite"/></path>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(130 86)"><circle r="32" fill="#08202b" stroke="#35e3d2" stroke-width="2"/><text y="7" fill="#aef8f1" font-size="20" font-weight="750">01</text><text y="70" fill="#fff" font-size="18" font-weight="700">Understand</text><text y="94" fill="#7189a3" font-size="13">constraints + reality</text></g>
+    <g transform="translate(365 86)"><circle r="32" fill="#0a1b31" stroke="#4da3ff" stroke-width="2"/><text y="7" fill="#d7e7ff" font-size="20" font-weight="750">02</text><text y="70" fill="#fff" font-size="18" font-weight="700">Design</text><text y="94" fill="#7189a3" font-size="13">contracts + ownership</text></g>
+    <g transform="translate(600 86)"><circle r="32" fill="#10172f" stroke="#727fff" stroke-width="2"/><text y="7" fill="#e1e2ff" font-size="20" font-weight="750">03</text><text y="70" fill="#fff" font-size="18" font-weight="700">Build</text><text y="94" fill="#7189a3" font-size="13">system + interfaces</text></g>
+    <g transform="translate(835 86)"><circle r="32" fill="#16142e" stroke="#9b70ff" stroke-width="2"/><text y="7" fill="#ece1ff" font-size="20" font-weight="750">04</text><text y="70" fill="#fff" font-size="18" font-weight="700">Prove</text><text y="94" fill="#7189a3" font-size="13">tests + evaluation</text></g>
+    <g transform="translate(1070 86)"><circle r="32" fill="#21142d" stroke="#c56fff" stroke-width="2"/><text y="7" fill="#f5ddff" font-size="20" font-weight="750">05</text><text y="70" fill="#fff" font-size="18" font-weight="700">Operate</text><text y="94" fill="#7189a3" font-size="13">deploy + recover</text></g>
+  </g>
+</svg>

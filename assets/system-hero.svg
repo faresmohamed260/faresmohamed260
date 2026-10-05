@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Fares Mohamed — AI Engineer</title>
+  <desc id="desc">A live systems topology connecting evaluation, workers, APIs, data, products, and physical systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#050b14"/><stop offset=".54" stop-color="#07172a"/><stop offset="1" stop-color="#111036"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop stop-color="#35e3d2"/><stop offset=".5" stop-color="#4da3ff"/><stop offset="1" stop-color="#a06bff"/>
+    </linearGradient>
+    <radialGradient id="halo"><stop stop-color="#4098ff" stop-opacity=".22"/><stop offset="1" stop-color="#4098ff" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#79a6ce" stroke-width="1" opacity=".055"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+    <path id="p1" d="M715 115C790 78 844 108 892 165"/>
+    <path id="p2" d="M892 165C956 214 1003 173 1088 118"/>
+    <path id="p3" d="M715 115C746 202 783 261 866 306"/>
+    <path id="p4" d="M866 306C953 337 1018 297 1088 241"/>
+    <path id="p5" d="M892 165C867 210 853 252 866 306"/>
+  </defs>
+  <rect width="1200" height="460" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="460" rx="30" fill="url(#grid)"/>
+  <circle cx="926" cy="217" r="270" fill="url(#halo)"/>
+  <path d="M44 50H1156M44 410H1156" stroke="#5e83aa" opacity=".24"/>
+  <text x="48" y="83" fill="#6f8aa6" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16" letter-spacing="3">SYSTEM PROFILE / REV. 04 / ALEXANDRIA</text>
+  <text x="48" y="181" fill="#f6f9ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="70" font-weight="750" letter-spacing="-2">Fares Mohamed</text>
+  <text x="51" y="232" fill="#73ded8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">AI ENGINEER</text>
+  <text x="50" y="299" fill="#d2ddec" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28">I build the system around the model—</text>
+  <text x="50" y="337" fill="#d2ddec" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28">from measured intelligence to operation.</text>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">
+    <text x="51" y="389" fill="#7990a9">PYTHON · TYPESCRIPT · POSTGRESQL · EMBEDDED</text>
+  </g>
+
+  <g fill="none" stroke="#35577e" stroke-width="2" opacity=".72">
+    <use href="#p1"/><use href="#p2"/><use href="#p3"/><use href="#p4"/><use href="#p5"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" text-anchor="middle">
+    <g transform="translate(715 115)"><circle r="34" fill="#081b29" stroke="#35e3d2" stroke-width="2"/><circle r="46" fill="none" stroke="#35e3d2" opacity=".16"><animate attributeName="r" values="40;49;40" dur="3.2s" repeatCount="indefinite"/></circle><text y="5" fill="#bffcf6" font-size="14">EVAL</text></g>
+    <g transform="translate(892 165)"><circle r="40" fill="#0a1730" stroke="#5e8eff" stroke-width="2"/><circle r="55" fill="none" stroke="#5e8eff" opacity=".14"><animate attributeName="r" values="48;58;48" dur="4s" repeatCount="indefinite"/></circle><text y="5" fill="#d7e1ff" font-size="14">WORKERS</text></g>
+    <g transform="translate(1088 118)"><circle r="33" fill="#11132f" stroke="#a06bff" stroke-width="2"/><text y="5" fill="#e9dfff" font-size="14">APIs</text></g>
+    <g transform="translate(866 306)"><circle r="39" fill="#071b2d" stroke="#49b9ff" stroke-width="2"/><text y="5" fill="#cdecff" font-size="14">DATA</text></g>
+    <g transform="translate(1088 241)"><circle r="42" fill="#13112e" stroke="#bc76ff" stroke-width="2"/><text y="5" fill="#f0e2ff" font-size="14">PRODUCT</text></g>
+    <g transform="translate(1024 355)"><rect x="-52" y="-24" width="104" height="48" rx="8" fill="#1b1514" stroke="#ff9b4a" stroke-width="2"/><text y="5" fill="#ffe2c6" font-size="13">PHYSICAL</text></g>
+    <path d="M1002 324L1024 331" stroke="#ff9b4a" stroke-width="2"/>
+  </g>
+  <g fill="#63eaff" filter="url(#glow)">
+    <circle r="5"><animateMotion dur="2.6s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="2.1s" begin="-.8s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="3.1s" begin="-1.4s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="2.8s" begin="-.3s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="2.4s" begin="-1s" repeatCount="indefinite"><mpath href="#p5"/></animateMotion></circle>
+  </g>
+  <g transform="translate(1115 52)"><rect width="46" height="46" rx="11" fill="#0b1730" stroke="url(#signal)"/><text x="23" y="30" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="750" font-size="20">FM</text></g>
+</svg>

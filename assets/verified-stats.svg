@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" role="img" aria-labelledby="title desc">
+  <title id="title">Verified engineering statistics</title>
+  <desc id="desc">More than 4000 contributions and 3500 commit contributions in the last twelve months, four flagship systems, and 0.8563 F1 quote detection.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07111d"/><stop offset="1" stop-color="#0b1527"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#35e3d2"/><stop offset=".5" stop-color="#4da3ff"/><stop offset="1" stop-color="#a06bff"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="166" rx="22" fill="url(#bg)" stroke="#223d59" stroke-width="2"/>
+  <rect x="30" y="27" width="5" height="114" rx="2.5" fill="url(#a)"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(66 0)"><text y="76" fill="#fff" font-size="34" font-weight="750">4K+</text><text y="105" fill="#8da4be" font-size="15" letter-spacing="1">CONTRIBUTIONS</text><text y="128" fill="#627b94" font-size="13">LAST 12 MONTHS</text></g>
+    <path d="M290 32V136" stroke="#223d59"/>
+    <g transform="translate(330 0)"><text y="76" fill="#fff" font-size="34" font-weight="750">3.5K+</text><text y="105" fill="#8da4be" font-size="15" letter-spacing="1">COMMIT CONTRIBUTIONS</text><text y="128" fill="#627b94" font-size="13">LAST 12 MONTHS</text></g>
+    <path d="M600 32V136" stroke="#223d59"/>
+    <g transform="translate(640 0)"><text y="76" fill="#fff" font-size="34" font-weight="750">04</text><text y="105" fill="#8da4be" font-size="15" letter-spacing="1">FLAGSHIP SYSTEMS</text><text y="128" fill="#627b94" font-size="13">AI · ENTERPRISE · ROBOTICS</text></g>
+    <path d="M880 32V136" stroke="#223d59"/>
+    <g transform="translate(920 0)"><text y="76" fill="#fff" font-size="34" font-weight="750">0.8563</text><text y="105" fill="#8da4be" font-size="15" letter-spacing="1">QUOTE DETECTION F1</text><text y="128" fill="#627b94" font-size="13">PUBLIC EVALUATION</text></g>
+  </g>
+</svg>
