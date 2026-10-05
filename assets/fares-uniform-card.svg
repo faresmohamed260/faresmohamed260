@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Fares Uniform</title><desc id="desc">Bilingual enterprise operations validated by 149 Odoo tests and 8 of 8 browser checks.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0d1e1a"/><stop offset="1" stop-color="#183027"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#4ad39a"/><stop offset="1" stop-color="#e2b95b"/></linearGradient></defs>
+  <rect width="1200" height="220" rx="22" fill="url(#bg)"/><rect width="9" height="220" rx="4.5" fill="url(#a)"/>
+  <rect x="986" y="51" width="146" height="118" rx="12" fill="none" stroke="#4ad39a" stroke-width="2" opacity=".28"/><path d="M1014 84h90M1014 110h90M1014 136h58" stroke="#e2b95b" stroke-width="5" stroke-linecap="round" opacity=".55"/><circle cx="1099" cy="136" r="11" fill="#4ad39a" opacity=".8"/>
+  <text x="55" y="62" fill="#86e5bb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">EXPERIMENTAL · STAGING VERIFIED</text>
+  <text x="53" y="117" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">Fares Uniform</text>
+  <text x="55" y="158" fill="#d3e3dc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Bilingual enterprise operations</text>
+  <text x="55" y="193" fill="#8fa99d" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">149 ODOO TESTS  ·  8/8 BROWSER CHECKS  ·  RECOVERY VERIFIED</text>
+</svg>

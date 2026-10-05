@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">S.A.G.A.</title><desc id="desc">Evidence-linked narrative intelligence with a measured 0.8563 F1 quote detector.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#171329"/><stop offset="1" stop-color="#241932"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#a67cff"/><stop offset="1" stop-color="#ef74b7"/></linearGradient></defs>
+  <rect width="1200" height="220" rx="22" fill="url(#bg)"/><rect width="9" height="220" rx="4.5" fill="url(#a)"/>
+  <path d="M1018 62h112M1018 91h85M1018 120h112M1018 149h72" stroke="#bd8cff" stroke-width="6" stroke-linecap="round" opacity=".34"/><circle cx="990" cy="62" r="6" fill="#ef74b7"/><circle cx="990" cy="91" r="6" fill="#a67cff"/><circle cx="990" cy="120" r="6" fill="#ef74b7"/><circle cx="990" cy="149" r="6" fill="#a67cff"/>
+  <text x="55" y="62" fill="#d1b6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">ACTIVE V2 DEVELOPMENT</text>
+  <text x="53" y="117" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">S.A.G.A.</text>
+  <text x="55" y="158" fill="#ddd3e8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Evidence-linked narrative intelligence</text>
+  <text x="55" y="193" fill="#9d8eaf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">QUOTE DETECTION 0.8563 F1  ·  PROVENANCE  ·  DURABLE ANALYSIS</text>
+</svg>

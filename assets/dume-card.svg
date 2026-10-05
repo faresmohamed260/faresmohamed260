@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">DUM-E</title><desc id="desc">Embedded robotics and motion control using ESP32, forward and inverse kinematics.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#20160d"/><stop offset="1" stop-color="#2d2218"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#ffb04a"/><stop offset="1" stop-color="#ff675f"/></linearGradient></defs>
+  <rect width="1200" height="220" rx="22" fill="url(#bg)"/><rect width="9" height="220" rx="4.5" fill="url(#a)"/>
+  <g fill="none" stroke="#ffb04a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity=".58"><path d="M995 161h137M1020 158l18-51 42-22 31-42M1038 107l28 34"/><circle cx="1038" cy="107" r="12"/><circle cx="1080" cy="85" r="11"/><circle cx="1111" cy="43" r="9"/></g>
+  <text x="55" y="62" fill="#ffc276" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">PHYSICAL SYSTEM</text>
+  <text x="53" y="117" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">DUM-E</text>
+  <text x="55" y="158" fill="#e8dacf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Embedded robotics and motion control</text>
+  <text x="55" y="193" fill="#aa9583" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">ESP32  ·  PERSISTENT CALIBRATION  ·  FK/IK PATH PLANNING</text>
+</svg>

@@ -1,72 +1,75 @@
-<h1 align="center">Fares Mohamed — AI Engineer</h1>
-
 <p align="center">
-  I build complete AI products: measured model and NLP components, durable workflows, APIs, databases, interfaces, deployment, and operational safeguards.
+  <img src="./assets/profile-header.svg" alt="Fares Mohamed — AI Engineer. Building the systems around the model." width="100%" />
 </p>
 
 <p align="center">
-  <a href="mailto:faresmohamed260@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/fares-mohamed-b83454194/">LinkedIn</a> ·
-  <a href="https://huggingface.co/faresmohamed260">Hugging Face</a> ·
-  <a href="https://www.kaggle.com/faresmohamed260">Kaggle</a>
+  <a href="mailto:faresmohamed260@gmail.com"><strong>Email</strong></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/fares-mohamed-b83454194/"><strong>LinkedIn</strong></a> &nbsp;•&nbsp;
+  <a href="https://huggingface.co/faresmohamed260"><strong>Hugging Face</strong></a> &nbsp;•&nbsp;
+  <a href="https://www.kaggle.com/faresmohamed260"><strong>Kaggle</strong></a>
 </p>
 
 <p align="center">
-  Alexandria, Egypt · B.Sc. Computer Science, Alexandria University — 2026 · Open to AI/ML Engineering roles
+  Alexandria, Egypt &nbsp;·&nbsp; B.Sc. Computer Science, 2026 &nbsp;·&nbsp; Open to AI/ML Engineering roles
 </p>
 
-## Selected Engineering Work
+## Selected work
 
-### [RenderLab](https://github.com/faresmohamed260/renderlab) — Production AI media systems
+<a href="https://github.com/faresmohamed260/renderlab">
+  <img src="./assets/renderlab-card.svg" alt="RenderLab — production AI media systems" width="100%" />
+</a>
 
-**Closed beta · [Live product](https://renderlab.faresuniform.uk) · [Architecture](https://github.com/faresmohamed260/renderlab/tree/main/docs/architecture) · [Security](https://github.com/faresmohamed260/renderlab/blob/main/SECURITY.md)**
+Durable, server-owned image and video workflows with retries, cancellation, idempotent finalization, owner-scoped access, and persistent media.
 
-A Next.js AI-media workspace that turns ComfyUI pipelines into durable image and video workflows. Server-owned jobs survive the initiating browser, with reconciliation, bounded retries and cancellation, idempotent finalization, owner-scoped access, and durable media storage.
+**Next.js · TypeScript · Supabase · PostgreSQL · R2 · Modal · ComfyUI**<br />
+[Live product](https://renderlab.faresuniform.uk) · [Repository](https://github.com/faresmohamed260/renderlab) · [Architecture](https://github.com/faresmohamed260/renderlab/tree/main/docs/architecture) · [Security](https://github.com/faresmohamed260/renderlab/blob/main/SECURITY.md)
 
-`Next.js` `TypeScript` `Supabase Auth` `PostgreSQL` `RLS` `Cloudflare R2` `Modal` `ComfyUI` `Playwright` `Vercel`
+<br />
 
-### [S.A.G.A.](https://github.com/faresmohamed260/saga) — Evidence-linked narrative intelligence
+<a href="https://github.com/faresmohamed260/saga">
+  <img src="./assets/saga-card.svg" alt="S.A.G.A. — evidence-linked narrative intelligence" width="100%" />
+</a>
 
-**Active v2 development · [Current status](https://github.com/faresmohamed260/saga/blob/main/PROJECT.md) · [Evaluation](https://github.com/faresmohamed260/saga/blob/main/docs/validation/PHASE_V2_3_COMPONENT_SCORECARD.md)**
+Local-first narrative analysis that preserves source evidence, provenance, uncertainty, and the boundary between experimental results and production defaults.
 
-A local-first analysis system for extracting characters, dialogue, events, relationships, and timelines from books while preserving source evidence and provenance. Its deterministic quote detector leads the current public comparison at **0.8563 F1**, versus **0.7791 F1** for the measured BookNLP challenger.
+**Python · FastAPI · Next.js · PostgreSQL · SQLAlchemy · Alembic · B2**<br />
+[Repository](https://github.com/faresmohamed260/saga) · [Current status](https://github.com/faresmohamed260/saga/blob/main/PROJECT.md) · [Evaluation](https://github.com/faresmohamed260/saga/blob/main/docs/validation/PHASE_V2_3_COMPONENT_SCORECARD.md)
 
-`Python` `FastAPI` `Next.js` `Supabase` `PostgreSQL` `SQLAlchemy` `Alembic` `Backblaze B2` `pytest`
+<br />
 
-### [Fares Uniform](https://github.com/faresmohamed260/fares-uniform) — Bilingual enterprise operations
+<a href="https://github.com/faresmohamed260/fares-uniform">
+  <img src="./assets/fares-uniform-card.svg" alt="Fares Uniform — bilingual enterprise operations" width="100%" />
+</a>
 
-**Experimental system · Staging verified · [Staging](https://fares-uniform.vercel.app) · [Business requirements](https://github.com/faresmohamed260/fares-uniform/blob/main/docs/requirements/DISCOVERY.md)**
+Arabic/English business software spanning retail, preorders, deposits, production demand, inventory, delegated access, recovery, and observability.
 
-An Arabic/English platform for a real uniform business, combining Odoo Community with a separate Next.js customer experience. It models retail, preorders, deposits, production demand, inventory, business-client workflows, delegated access, recovery, and observability—validated by **149 Odoo tests** and **8/8 browser checks**.
+**Odoo · Python · Next.js · TypeScript · PostgreSQL · Playwright · GitHub Actions**<br />
+[Staging](https://fares-uniform.vercel.app) · [Repository](https://github.com/faresmohamed260/fares-uniform) · [Business requirements](https://github.com/faresmohamed260/fares-uniform/blob/main/docs/requirements/DISCOVERY.md)
 
-`Odoo` `Python` `Next.js` `TypeScript` `PostgreSQL` `Supabase` `Playwright` `GitHub Actions` `Vercel`
+<br />
 
-### [DUM-E](https://github.com/faresmohamed260/DUM-E) — Embedded robotics and motion control
+<a href="https://github.com/faresmohamed260/DUM-E">
+  <img src="./assets/dume-card.svg" alt="DUM-E — embedded robotics and motion control" width="100%" />
+</a>
 
-An ESP32 robot-arm system spanning firmware, persistent calibration, Wi-Fi/API control, wireless controller mapping, sequence recording, forward/inverse kinematics, path planning, guarded pick-and-place execution, and Windows packaging.
+An ESP32 robot-arm system with persistent calibration, controller mapping, sequence recording, FK/IK path planning, and guarded physical execution.
 
-`ESP32` `C++` `Python` `FK/IK` `Motion Planning` `Streamlit` `ROS2 Interfaces`
+**ESP32 · C++ · Python · FK/IK · Motion planning · Streamlit · ROS2 interfaces**<br />
+[Repository](https://github.com/faresmohamed260/DUM-E) · [Setup and operation](https://github.com/faresmohamed260/DUM-E/blob/main/INSTALLATION.md)
 
-## Engineering Stack
+## Toolkit
 
-| Area | Technologies and practices |
-| --- | --- |
-| **Languages** | Python, TypeScript, SQL, C/C++ |
-| **AI / ML** | PyTorch, NLP, LLM systems, RAG, evaluation, ComfyUI |
-| **Backend & data** | FastAPI, PostgreSQL, Supabase, SQLAlchemy, Alembic, Odoo |
-| **Product** | React, Next.js, Streamlit, Arabic/English and RTL interfaces |
-| **Infrastructure** | Docker, GitHub Actions, Vercel, Cloudflare R2, Backblaze B2, Modal |
-| **Quality** | pytest, Playwright, CI/CD, reproducible evaluation, deployment and recovery checks |
-| **Robotics** | ESP32, embedded firmware, FK/IK, motion planning, ROS2 interfaces |
+**Build** — Python, TypeScript, SQL, C/C++, React, Next.js, FastAPI, Odoo<br />
+**AI** — PyTorch, NLP, LLM systems, RAG, evaluation, ComfyUI<br />
+**Operate** — PostgreSQL, Supabase, Docker, GitHub Actions, Vercel, R2, B2, Modal<br />
+**Verify** — pytest, Playwright, reproducible benchmarks, deployment and recovery checks
 
-## How I Engineer
+## Engineering principles
 
-- **Measure before adopting.** Evaluate AI components against reproducible baselines and keep experimental results distinct from production defaults.
-- **Design for failure.** Use durable state, retries, idempotency, explicit ownership, authorization boundaries, and recovery procedures.
-- **Ship the whole system.** Connect models to reliable APIs, databases, product interfaces, testing, deployment, and operations.
+> **Measure before adopting.** Reproducible evaluation over impressive demos.
 
-## Background
+> **Design for failure.** Durable state, retries, idempotency, authorization, and recovery.
 
-- **B.Sc. Computer Science**, Alexandria University — 2026; ranked at the top of my class.
-- **Head of AI Committee**, ElCoder.
-- **AI & Robotics Instructor and Content Creator**, Engineering For Kids.
+> **Ship the whole system.** Models connected to dependable products and operations.
+
+<sub>Head of AI Committee at ElCoder · AI & Robotics Instructor and Content Creator at Engineering For Kids · Ranked at the top of my class at Alexandria University</sub>
